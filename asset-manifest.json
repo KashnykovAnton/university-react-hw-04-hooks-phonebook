@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/university-react-hw-04-hooks-phonebook/static/css/main.e4ccf1fd.css",
+    "main.js": "/university-react-hw-04-hooks-phonebook/static/js/main.f261a6f3.js",
+    "static/media/paper-texture.jpg": "/university-react-hw-04-hooks-phonebook/static/media/paper-texture.5d2a4fc8f48c1baa8915.jpg",
+    "static/media/texture-pencil.jpg": "/university-react-hw-04-hooks-phonebook/static/media/texture-pencil.e5742434d208594352e8.jpg",
+    "index.html": "/university-react-hw-04-hooks-phonebook/index.html",
+    "main.e4ccf1fd.css.map": "/university-react-hw-04-hooks-phonebook/static/css/main.e4ccf1fd.css.map",
+    "main.f261a6f3.js.map": "/university-react-hw-04-hooks-phonebook/static/js/main.f261a6f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e4ccf1fd.css",
+    "static/js/main.f261a6f3.js"
   ]
 }
